@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'msdocs-laravel-mysql-php'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DB081700D02E4BFB82F4375FEA2FF8E6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_78E8CC93A75D4A209039E9E11D8D4A1B }}
           package: .
